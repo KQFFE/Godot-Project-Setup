@@ -4,3 +4,5 @@
 3. Create a subfolder from project root and name it "tools".
 4. Paste the files from the New Project Setup in the newly created tools-folder.
 5. Press run res://tools/project_setup.tscn.
+
+<img width="253" height="530" alt="Skärmbild 2026-09-23 144156" src="https://github.com/user-attachments/assets/57dc64f3-ae35-41b1-bf91-35b2273234d4" />
