@@ -1,0 +1,5 @@
+Go to FileSystem tab in the right side column in Godot.
+Select top folder in the hierarchy, right click and open in explorer.
+Create a subfolder from project root and name it "tools".
+Paste the files from the New Project Setup in the newly created tools-folder.
+Press run res://tools/project_setup.tscn.
