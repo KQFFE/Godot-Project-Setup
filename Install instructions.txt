@@ -2,4 +2,7 @@ Go to FileSystem tab in the right side column in Godot.
 Select top folder in the hierarchy, right click and open in explorer.
 Create a subfolder from project root and name it "tools".
 Paste the files from the New Project Setup in the newly created tools-folder.
-Press run res://tools/project_setup.tscn.
+In Godot, open res://tools/project_setup.tscn from the FileSystem tab.
+Run the current scene with F6 (or the "Run Current Scene" button).
+Do not use F5 / "Run Project" yet: this setup scene can run without a project
+main scene, but the project itself needs one before you can run the game with F5.
