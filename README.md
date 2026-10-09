@@ -20,4 +20,4 @@ project root.
 
 README included with instructions on what to put where, conventions and how to set things like Input mapping manually.
 
-<img width="253" height="530" alt="Skärmbild 2026-09-23 144156" src="https://github.com/user-attachments/assets/57dc64f3-ae35-41b1-bf91-35b2273234d4" />
+<img width="288" height="465" alt="image" src="https://github.com/user-attachments/assets/d41062ec-054a-44f4-bf3d-d562145c5154" />
