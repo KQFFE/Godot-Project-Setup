@@ -1,7 +1,7 @@
 extends Node
 ## One-shot project setup for a NEW project, runnable in any Summer Engine project.
 ##
-## Play this scene once and it will:
+## Run this scene once with "Run Current Scene" (F6), not "Run Project" (F5), and it will:
 ##   1. create the standard folder structure,
 ##   2. write README.md describing that structure (only when there is no README),
 ##   3. write a rebindable input registry at res://ui/input_settings.gd (only if missing),
